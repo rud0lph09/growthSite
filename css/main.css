@@ -41,3 +41,22 @@
   height: auto;
 
 }
+
+.list_head_title{
+  height: 650px;
+  color: white;
+  background-image: url(../images/coworking.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 200px;
+
+}
+
+.startup_item{
+  margin-top: 7px;
+  margin-bottom: 7x;
+  border-radius: 25px;
+   background: #ededed;
+   padding: 20px;
+  height: 150px;
+}
